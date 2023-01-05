@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>NeedIt activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_58872_needit_needit_activity.fields</name>
+        <read_roles/>
+        <suffix>x_58872_needit</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-05 14:45:32</sys_created_on>
+        <sys_id>4d516b0897102110373af3ffe153af11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_58872_needit_needit_activity.fields</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_4d516b0897102110373af3ffe153af11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-05 14:45:32</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,active,closed_at,closed_by,sys_created_on,sys_created_by,opened_at,u_request_type,u_requested_for,sys_updated_on,sys_updated_by,u_what_needed,u_when_needed,*Email*</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=4d516b0897102110373af3ffe153af11"/>
+</record_update>
